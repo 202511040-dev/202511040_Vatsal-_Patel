@@ -1,3 +1,12 @@
+
+## Team Members:
+## Name:Patel Vatsal Sureshbhai
+## Student ID:202511040
+## Name:Shivang Desai
+## Student ID:202511034
+
+
+
 # 📄 Adaptive PDF Summarization System using Deep Learning
 
 ---
